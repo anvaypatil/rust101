@@ -18,3 +18,7 @@ Notes on Rust
 1. [Generics](/docs/13.generics.md)
 1. [Modules](/docs/14.modules.md)
 1. [Memory-Management](/docs/15.memory-management.md)
+1. [Closures Box and Iterators](/docs/17.closures-box-iterators.md)
+1. [Lifetimes](/docs/18.lifetimes.md)
+1. [Power Macro Metaprogramming](/docs/19.marco-programming.md)
+1. [Error Handling](/docs/20.error-handling.md)
